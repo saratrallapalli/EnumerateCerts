@@ -15,10 +15,10 @@
             "version": "1.3",
             "uris": [
                 {
-                    "uri": "file:\\\\\\C:\\WindowsAzure\\Plugins\\CustomScriptHandler_1.3.zip"
+                    "uri": "http://rdfepirv2by1prdstr01.blob.core.windows.net/bfd5c281a7dc4e4b84381eb0b47e3aaf/Microsoft.Compute__CustomScriptExtension__1.3"
                 },
                 {
-                    "uri": "file:\\\\\\C:\\WindowsAzure\\Plugins\\CustomScriptHandler_1.3.zip"
+                    "uri": "http://rdfepirv2by1prdstr01.blob.core.windows.net/bfd5c281a7dc4e4b84381eb0b47e3aaf/Microsoft.Compute__CustomScriptExtension__1.3"
                 }
             ]
         }
